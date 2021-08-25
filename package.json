@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ethereumjs-tx": "^2.1.2",
+    "mongoose": "^5.13.7",
+    "web3": "^1.5.2"
+  },
+  "name": "transaction-api",
+  "version": "1.0.0",
+  "description": "testing ",
+  "main": "transaction",
+  "scripts": {
+    "test": "node transaction.js"
+  },
+  "author": "Vinay Jaiswal",
+  "license": "ISC"
+}
